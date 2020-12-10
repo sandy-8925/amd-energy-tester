@@ -1,0 +1,1 @@
+This code is meant to test for incorrect energy readings from the amd_energy hwmon driver. It assumes avx-turbo is in the execution path, you'll have to take care of that yourself.
